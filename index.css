@@ -1,0 +1,26 @@
+.login {
+    border-radius: 10%;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.login form {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.login input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.login button{
+    margin-top: 10px;
+    color: blue;
+    background-color: red;
+}
